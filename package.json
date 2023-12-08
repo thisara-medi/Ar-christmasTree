@@ -1,7 +1,7 @@
 {
   "name": "get-started-with-ar-web",
   "version": "1.0.0",
-  "description": "A WebXR AR application",
+  "description": "Phoenix Christmas Tree",
   "main": "index.ts",
   "scripts": {
     "start": "webpack serve",
